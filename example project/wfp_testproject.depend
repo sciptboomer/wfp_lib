@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567945255 source:c:\users\vl4dy\onedrive\Рабочий стол\wfp_testproject\main.cpp
+	<iostream>
+	"wfp_main.h"
+
