@@ -1,2 +1,2 @@
-# wfp_lib
-WFP (WindowFunctionPack) - Its library based on WinAPI, for GUI and Graphics(soon) applications. Designed for OOP using
+# WFP - WindowFunctionsPack
+WFP it's library for OS Windows, based on WinAPI. Can be used in GUI and Graphics(soon) applications. Specialy designed for OOP coding
